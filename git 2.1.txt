@@ -1,1 +1,3 @@
 hello profesor jau ar iu
+
+Now i'm adding binary info to this txt.
